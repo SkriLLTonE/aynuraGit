@@ -1,0 +1,9 @@
+p {
+    color: red;
+    background: black;
+    border: 2px solid red;
+    width: 400px;
+    height: 300px;
+    font-size: 20px;
+    
+}
